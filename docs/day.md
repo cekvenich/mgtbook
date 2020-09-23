@@ -1,8 +1,8 @@
    
-## Day to day and weekly management
+# Day to day and weekly management
 
 
-### Start and 'operation'
+## Start and 'operation'
 
 Most of the time you are running some agile process. I like 1 week over 2 week 'sprint'. At the end of the week the first level manager's primary responsibility is to communicate to each IC (individual contributor) a list of tasks sufficient for two weeks (yes, you do this each week not every 2 weeks) and the sequential priority order of all the tasks. Ny sequential I mean no two tasks are priority 1, no two tasks are priority 2, etc. And the reason you give them two weeks worth of tasks and not one is that there are plenty of times that high performers do more work than you'd expect. And sometimes, an IC is blocked by a higher priority task, so they start on the next priority task. 
 
@@ -15,7 +15,7 @@ At the end of the day each IC usually submits a very short status, and the manag
 
    NOTE: During the week do not miss an opportunity to offer a specific compliment to IC.
 
-### Towards the end of the week
+## Towards the end of the week
 
 Wednesday night IC's submit some longer report or demo of what they worked on, including their plan for the rest of the week. Due to remote work, these IC reports can't be done later in the week.  Thursday AM the first line manager passes on the IC reports to the 'Product Manager'(PM). The PM the reviews their quarterly product road map and communicates the current short term priorities with the first line manager. There is a bit of parallel work here since it is not 100% clear on Thursday as to what the complected work will be for the entire week, but it should be close enough to guess. Thursday night you'll get another set of IC reports with any ambiguity removed. 
 Assuming individual IC had a good week, Friday I set to half day and don't ask for a status report on Friday - people's minds are on the weekend. 
@@ -27,7 +27,7 @@ Assuming individual IC had a good week, Friday I set to half day and don't ask f
 The first line manager at the end of the week prepares the next week, and the rhythm repeats. As your prepare the priorities for next week keep in career gaols of ICs in mind.
 
 
-### Celling vs floor management
+## Celling vs floor management
 
 Notice that I never give minimals of amount of tasks to be completed by any IC for the week. 
 Managing for the floor makes you waste calories playing games against the IC on estimates and commitment. Instead I manage for the ceiling: do as much as you can in good faith. As a manager I facilitate performance by removing as much of the stress as possible. Of course some people are highly productive and they will much more than expected. If there are low performers, that becomes obvious and they can be removed from the team over time. High performers don't want to cary dead weight.
@@ -36,7 +36,7 @@ Managing for the floor makes you waste calories playing games against the IC on 
 
    MANAGEMENT TIP: During the week you should find specific things you can compliment and informally track the # of compliments per employee till you get to 10 compliments. Because the ration of compliments to coaching should be greater than 10. Once you coach someone, that count/reservoir of good will is now 0 again.
 
-### Product releases
+## Product releases
 
 Software releases should happen throughout the working day and not towards the end of the week before the weekend.
 
@@ -44,7 +44,7 @@ Software releases should happen throughout the working day and not towards the e
 
 Also, things related to IAM, auth and security are usually the most time consuming and laborious.
 
-#### No other managers
+## No other managers
 
 Sometimes IC have more managers:
 - HR
@@ -59,7 +59,7 @@ etc.
 All these other managers must exclusively interface to the IC via IC's first line manager whose goal is to protect them.  In some orgs, software engineers are the low man on the totem pole and anyone and everyone outranks them. The first line manager should fill out any needed forms for his team. The team should be busy working. Care for your team and they will take care of your customers.
 
 
-#### Personal
+## Personal
 
 I personally exercise first thing in the day after drinking a glass of water and before reading any emails. This helps me sleep and have energy. Also, I write done a few things I want to do that day; - BEFORE reading emails.
 

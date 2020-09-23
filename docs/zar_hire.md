@@ -1,6 +1,6 @@
-## How to get hired as a tech manager
+# How to get hired as a tech manager
 
-### Things that *DON'T* work
+## Things that *DON'T* work
 Talking to recruiters or HR is time consuming and unlikely to result in any benefit. If you are not talking to the hiring manager or execs, you are having your time wasted.
 Also, any kind of a coding test means they just want to bump you.  A good way to decline is: 
 'I read someplace that this is not a good path for me to get hired there, so I respectfully decline. 
@@ -8,14 +8,14 @@ Let me know if can help you recruit someone or if you need some part time interi
 
     *NOTE*: One way to get a consulting Purchase Order signed is to offer money back if *YOU* think that you did not add value of a certain $ amount. For me, I say if I think I did not add at least $100K of value in two weeks of consulting I won't invoice the PO other than the expenses.
     
-### Source of opportunities
+## Source of opportunities
 
 Best source of opportunities is investors. You can network with the by reviewing and doing due diligence of companies. Another source of opportunities is consulting, management consulting, such as 'red-team' review.
 Since opportunities are rare, care must be taken to leverage each rare opportunity, no mistakes.
 
-#### Maybe a good approach is to list what *NOT* to do if you want to get hired:
+## Maybe a good approach is to list what *NOT* to do if you want to get hired:
 
-### - Don't embarrass the management
+## - Don't embarrass the management
 
 
 The goal is not to indicate to the hiring manager that you'll embarrass them after you are hired!!!

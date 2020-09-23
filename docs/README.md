@@ -12,3 +12,5 @@ The other type is a software engineer that has shipped product before, worked as
 This 'guide/book' is meant for the technical kind and not for the MBA-type.
 
 So for example, I won't be address MBA-type issue such as MBA-type hiring a dev-shop based primarily on the hourly bill rate.
+
+To continue, click on TOC on the left.
