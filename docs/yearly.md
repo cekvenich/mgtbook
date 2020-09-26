@@ -1,5 +1,10 @@
 # Yearly
 
+
+## Levels and Career path
+
+
+
 ## Innovation
 
 At least annually you should invest in training. For example sports teams train regularly and so do orchestra. Obviously this should be things that are aligned with long term direction of the company, it does not need to be something with short term alignment. (eg. One popular initiative is digital transformation where every person in the company is able to write an application)
