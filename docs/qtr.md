@@ -39,14 +39,6 @@ Promote from within to reward longevity and loyalty. Most employees stay for onl
 
 
 
-## Firing
-
-If there are people with poor reviews, 'this is your last day with us, at this point in your career it does not fit here'. Once team realizes somone  has poor performance via 360's its time for them to go. Or anytime someone's poor performance impacts another employee. In case of some 'situation' than both parties are let go. 
-Doing PIPs is a waste, putting people under stress always lowers performance.
-
-    NOTE: Of course you need to back up everything, review any network device settings and change all the passwords afterwards. It has happened to me that a fired person afterwards changed the network settings. 
-
-
 ## Firing protected class
 
 In USA we have some protected classes, such as military or other protected classes. Military people also do make some of the best performers, but nothing is 100%. Same procedure as above. Be generous with severance due to potential of an impact of a lawsuit that would be difficult to win in most courts. Or you can decide to keep someone to be just a mascot, maybe they are funny at team building events. Most ICs realize what is going on, why a poor performer is still around. Or convert them into a remote consultant to work on special projects. What you don't want to have is politics in the org.

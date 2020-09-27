@@ -44,20 +44,3 @@ Politics is usually incompetence that you can't call out or some kind of grift/e
 Sometimes a good employee will have a bad patch for some personal reason. They must be explicitly told that the org. is there to support them by a high ranking manager and why. (eg. 'because we value your contribution').
 
 
-
-## Career path
-
-So maybe a company has a career plan ladder eg.:
-
-- Back end developer/intern 
-- Sr. / Principal Front End Developer/Designer
-- Tech lead / PM (Product manager)
-- Solutions architect / Customer support manager
-- Content Manager, writes articles
-- SDR Marketing (commission)
-- Account Exec/Director
-- EVP Sales (equity, for a segment)
-
-This way you can keep the same person for 25 years and let them retire at 50.
-While not everyone follows the ladder, there is a path, with equity and life savings in 7 digits.
-
