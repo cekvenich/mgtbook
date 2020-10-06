@@ -33,7 +33,7 @@ Managing for the floor makes you waste calories playing games against the IC on 
 
    IMPORTANT: Team will perform at its best once trust in management is established. After that you can establish expectations of high performance.
 
-   MANAGEMENT TIP: During the week you should find specific things you can compliment and informally track the # of compliments per employee till you get to 10 compliments. Because the ration of compliments to coaching should be greater than 10. Once you coach someone, that count/reservoir of good will is now 0 again.
+   MANAGEMENT TIP: During the week you should find specific things you can compliment and informally track the # of compliments per employee till you get to 10 compliments. Because the ration of compliments to coaching should be greater than 10. Once you coach someone, that count/reservoir of good will is now 0 again. If you are not giving positive feedback IC will start to wonder.
 
 ## Product releases
 

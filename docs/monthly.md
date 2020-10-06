@@ -10,7 +10,7 @@ Sometimes a team needs you to help the team decide between architecture A and B.
 
 One of the things that managers spend a lot of time is hiring. Sometimes you can work with HR admins, but you must never rely on them, a lot of the times recruiters and HR are impediments to hiring the best candidate. The managers select the people to talk to, for example on Upwork, and the managers are the ones that do the first interview. You may need to budget 50% of your most precisions resource, your time on recruiting. Once you have selected a few candidates for the opening, the managers manager should select the best candidate. You don't want to have a manager not hire the best candidate due to them being threated. 
 
-    HIRING TIPS: Technical interview is a ego trip. Mostly you want good candidates to join and if they don't work out deal with it then.
+    HIRING TIPS: Technical interview is an ego trip. Mostly you want good candidates to join and if they don't work out deal with it then. I am OK with hiring people that are a high performance and a bit harder to manage - as a trade off. Most of the time I'm not paying the FAANG salaries, but I still want A level people. There are no engineers who are good but don't know their net worth. 
 
 ## On-boarding
 

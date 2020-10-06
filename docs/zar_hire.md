@@ -41,3 +41,5 @@ Also, the goal is to get the offer. Only once you have the offer should you cons
 
 And last, in this profession it is typically that you are in school till you are 25 years old and that 20 years later you'll be considered to old, so at 45 you maybe forced into a career change. It works like chess GM's, strong in 20's and fade in 40s.
 That is what a STEM degree gives you, if you wanted longevity go into sales, business or finance. 
+
+## Most important: Be likeable.

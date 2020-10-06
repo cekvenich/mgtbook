@@ -49,6 +49,7 @@ In USA we have some protected classes, such as military or other protected class
 At start of quarter finish the plan for the next OKR goals for sr. eng and above. Also, based on the stress/load tests you want to plan the capacity for the next quarter, and in general manage costs. Cut what not adding value, and experiment with things that have a quick ROI. For sure you have padded your annual budget and are under it each and every quarter so that you have reserve budget and so that each future quarter has a bit more than the prior one. You want to avoid cutting budget due to overspending. A big part of panning next budget is following the quarterly sales revenue projection fo the next quarter.
 
 
+
 # Tests
 
 Also, make sure you perform a realistic disaster recovery simulation drill. For example restore you backups to another vendor, and shut off primary vendor. If a disaster ever happened, it is something you practiced for.
