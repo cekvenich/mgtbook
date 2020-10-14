@@ -63,3 +63,6 @@ All these other managers must exclusively interface to the IC via IC's first lin
 I personally exercise first thing in the day after drinking a glass of water and before reading any emails. This helps me sleep and have energy. Also, I write done a few things I want to do that day; - BEFORE reading emails.
 
 Also, one of the hard things about management is that you have to be perfect, your IC will only remember the mistakes. As a manager you can't break character. You need to give your team something to believe in. 
+
+
+NOTE: One of my favorite tools to track effort are things like: https://github.com/ORESoftware
