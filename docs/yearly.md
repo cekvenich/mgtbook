@@ -14,7 +14,9 @@ Once your org is has over 25 you'll need salary levels/lader. And a career path,
 - Outbound SDR Director(commission) ->
 - AE/VP Sales Region/Segment(equity)
 
+## Internal security 
 
+Every 6 months you need employee security training, pen. testing and similar
 
 ## Innovation
 

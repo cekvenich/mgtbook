@@ -1,5 +1,9 @@
 # How to get hired as a tech manager
 
+
+## Most important: Be likeable.
+
+
 ## Things that *DON'T* work
 Talking to recruiters or HR is time consuming and unlikely to result in any benefit. If you are not talking to the hiring manager or execs, you are having your time wasted.
 Also, any kind of a coding test means they just want to bump you.  A good way to decline is: 
@@ -42,4 +46,16 @@ Also, the goal is to get the offer. Only once you have the offer should you cons
 And last, in this profession it is typically that you are in school till you are 25 years old and that 20 years later you'll be considered to old, so at 45 you maybe forced into a career change. It works like chess GM's, strong in 20's and fade in 40s.
 That is what a STEM degree gives you, if you wanted longevity go into sales, business or finance. 
 
-## Most important: Be likeable.
+
+
+## MBA type
+
+There are two types of tech managers, and MBA-type or techie types. MBA-types are managers that have superficial hands on experience in tech. Think of an NBA coach that never played pro ball, but did play school JV ball, maybe a few years of bench warming. The MBA-type managers manage by hearsay. For example they ask dev A and then they ask dev B - and that is how they make decisions, based on who talks the loudest. It is difficult for them to be effective leaders and may end up destroying the team and productivity. They are good at playing politics because they have nothing to do, becuase there is nothing the can do, so they are free for 40 hours per week to play politics. 
+
+
+    Note: I define politics as not being able to call out someone who is incompetent. 
+
+
+The other type is a software engineer that has shipped product before, worked as a sr. engineer and had project failures. Maybe they had worked for a bad manager in the past. Having sailed some rough seas is a plus.
+
+This 'guide/book' is meant for the technical kind and not for the MBA-type. The MBA type could be effective at being an analyst and product manager - if they are kept busy.
